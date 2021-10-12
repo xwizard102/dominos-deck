@@ -4,13 +4,13 @@
 			"image": "dominos.png",
 			"format": "RGBA8888",
 			"size": {
-				"w": 1764,
-				"h": 2008
+				"w": 2000,
+				"h": 2000
 			},
 			"scale": 1,
 			"frames": [
 				{
-					"filename": "dominos00.png",
+					"filename": "dominos-0.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -24,8 +24,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1,
-						"y": 1,
+						"x": 0,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -35,7 +35,7 @@
 					}
 				},
 				{
-					"filename": "dominos10.png",
+					"filename": "dominos-1.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -49,8 +49,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1,
-						"y": 503,
+						"x": 250,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -60,7 +60,7 @@
 					}
 				},
 				{
-					"filename": "dominos11.png",
+					"filename": "dominos-2.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -74,8 +74,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1,
-						"y": 1005,
+						"x": 500,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -85,7 +85,7 @@
 					}
 				},
 				{
-					"filename": "dominos20.png",
+					"filename": "dominos-3.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -99,8 +99,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1,
-						"y": 1507,
+						"x": 750,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -110,7 +110,7 @@
 					}
 				},
 				{
-					"filename": "dominos21.png",
+					"filename": "dominos-4.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -124,8 +124,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 253,
-						"y": 1,
+						"x": 1000,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -135,7 +135,7 @@
 					}
 				},
 				{
-					"filename": "dominos22.png",
+					"filename": "dominos-5.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -149,8 +149,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 253,
-						"y": 503,
+						"x": 1250,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -160,7 +160,7 @@
 					}
 				},
 				{
-					"filename": "dominos30.png",
+					"filename": "dominos-6.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -174,8 +174,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 253,
-						"y": 1005,
+						"x": 1500,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -185,7 +185,7 @@
 					}
 				},
 				{
-					"filename": "dominos31.png",
+					"filename": "dominos-7.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -199,8 +199,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 253,
-						"y": 1507,
+						"x": 1750,
+						"y": 0,
 						"w": 250,
 						"h": 500
 					},
@@ -210,7 +210,7 @@
 					}
 				},
 				{
-					"filename": "dominos32.png",
+					"filename": "dominos-8.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -224,8 +224,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 505,
-						"y": 1,
+						"x": 0,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -235,7 +235,7 @@
 					}
 				},
 				{
-					"filename": "dominos33.png",
+					"filename": "dominos-9.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -249,8 +249,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 757,
-						"y": 1,
+						"x": 250,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -260,7 +260,7 @@
 					}
 				},
 				{
-					"filename": "dominos40.png",
+					"filename": "dominos-10.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -274,8 +274,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1009,
-						"y": 1,
+						"x": 500,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -285,7 +285,7 @@
 					}
 				},
 				{
-					"filename": "dominos41.png",
+					"filename": "dominos-11.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -299,8 +299,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1261,
-						"y": 1,
+						"x": 750,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -310,7 +310,7 @@
 					}
 				},
 				{
-					"filename": "dominos42.png",
+					"filename": "dominos-12.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -324,8 +324,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1513,
-						"y": 1,
+						"x": 1000,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -335,7 +335,7 @@
 					}
 				},
 				{
-					"filename": "dominos43.png",
+					"filename": "dominos-13.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -349,8 +349,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 505,
-						"y": 503,
+						"x": 1250,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -360,7 +360,7 @@
 					}
 				},
 				{
-					"filename": "dominos44.png",
+					"filename": "dominos-14.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -374,8 +374,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 505,
-						"y": 1005,
+						"x": 1500,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -385,7 +385,7 @@
 					}
 				},
 				{
-					"filename": "dominos50.png",
+					"filename": "dominos-15.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -399,8 +399,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 505,
-						"y": 1507,
+						"x": 1750,
+						"y": 500,
 						"w": 250,
 						"h": 500
 					},
@@ -410,7 +410,7 @@
 					}
 				},
 				{
-					"filename": "dominos51.png",
+					"filename": "dominos-16.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -424,8 +424,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 757,
-						"y": 503,
+						"x": 0,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -435,7 +435,7 @@
 					}
 				},
 				{
-					"filename": "dominos52.png",
+					"filename": "dominos-17.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -449,8 +449,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 757,
-						"y": 1005,
+						"x": 250,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -460,7 +460,7 @@
 					}
 				},
 				{
-					"filename": "dominos53.png",
+					"filename": "dominos-18.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -474,8 +474,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 757,
-						"y": 1507,
+						"x": 500,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -485,7 +485,7 @@
 					}
 				},
 				{
-					"filename": "dominos54.png",
+					"filename": "dominos-19.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -499,8 +499,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1009,
-						"y": 503,
+						"x": 750,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -510,7 +510,7 @@
 					}
 				},
 				{
-					"filename": "dominos55.png",
+					"filename": "dominos-20.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -524,8 +524,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1261,
-						"y": 503,
+						"x": 1000,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -535,7 +535,7 @@
 					}
 				},
 				{
-					"filename": "dominos60.png",
+					"filename": "dominos-21.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -549,8 +549,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1513,
-						"y": 503,
+						"x": 1250,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -560,7 +560,7 @@
 					}
 				},
 				{
-					"filename": "dominos61.png",
+					"filename": "dominos-22.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -574,8 +574,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1009,
-						"y": 1005,
+						"x": 1500,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -585,7 +585,7 @@
 					}
 				},
 				{
-					"filename": "dominos62.png",
+					"filename": "dominos-23.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -599,8 +599,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1009,
-						"y": 1507,
+						"x": 1750,
+						"y": 1000,
 						"w": 250,
 						"h": 500
 					},
@@ -610,7 +610,7 @@
 					}
 				},
 				{
-					"filename": "dominos63.png",
+					"filename": "dominos-24.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -624,8 +624,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1261,
-						"y": 1005,
+						"x": 0,
+						"y": 1500,
 						"w": 250,
 						"h": 500
 					},
@@ -635,7 +635,7 @@
 					}
 				},
 				{
-					"filename": "dominos64.png",
+					"filename": "dominos-25.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -649,8 +649,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1261,
-						"y": 1507,
+						"x": 250,
+						"y": 1500,
 						"w": 250,
 						"h": 500
 					},
@@ -660,7 +660,7 @@
 					}
 				},
 				{
-					"filename": "dominos65.png",
+					"filename": "dominos-26.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -674,8 +674,8 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1513,
-						"y": 1005,
+						"x": 500,
+						"y": 1500,
 						"w": 250,
 						"h": 500
 					},
@@ -685,7 +685,7 @@
 					}
 				},
 				{
-					"filename": "dominos66.png",
+					"filename": "dominos-27.png",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -699,8 +699,33 @@
 						"h": 500
 					},
 					"frame": {
-						"x": 1513,
-						"y": 1507,
+						"x": 750,
+						"y": 1500,
+						"w": 250,
+						"h": 500
+					},
+					"anchor": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				{
+					"filename": "dominos-28.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 250,
+						"h": 500
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 250,
+						"h": 500
+					},
+					"frame": {
+						"x": 1000,
+						"y": 1500,
 						"w": 250,
 						"h": 500
 					},
@@ -715,6 +740,6 @@
 	"meta": {
 		"app": "https://www.codeandweb.com/texturepacker",
 		"version": "3.0",
-		"smartupdate": "$TexturePacker:SmartUpdate:c2ca288b434a67cd908520ae54b33fcc:b9e328eef5f36eb95669c5644db713ad:a10ed3f919eb51b235a17a69adf95675$"
+		"smartupdate": "$TexturePacker:SmartUpdate:08a0a6f20638234e919fbe9bf25e9785:1b54228062f1ceb86cd9988b9371d566:a10ed3f919eb51b235a17a69adf95675$"
 	}
 }

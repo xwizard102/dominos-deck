@@ -1,8 +1,8 @@
 let game;
 
 let gameOptions = {
-    cardWidth: 252,
-    cardHeight: 502,
+    cardWidth: 250,
+    cardHeight: 500,
     cardScale: 0.8
 };
 
@@ -41,8 +41,9 @@ class playGame extends Phaser.Scene {
     create() {
         this.canSwipe = true;
     
-        this.deck = Phaser.Utils.Array.NumberArray(0, 27);
+        this.deck = Phaser.Utils.Array.NumberArray(0, 28);
         Phaser.Utils.Array.Shuffle(this.deck);
+        // Phaser.Utils.Array.Swap(this.deck, 0, 28);
     
         this.cardsInGame = [this.createCard(0), this.createCard(1)];
     
